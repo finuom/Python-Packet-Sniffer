@@ -1,2 +1,2 @@
 termcolor
-textwrap3
+textwrap
