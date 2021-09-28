@@ -1,7 +1,6 @@
 import struct
 import time
 
-
 class Pcap:
 
     def __init__(self, filename, link_type=1):
